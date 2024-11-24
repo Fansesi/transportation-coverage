@@ -1,0 +1,6 @@
+Python>=3.7
+geopandas
+shapely
+folium
+pyproj
+numpy
